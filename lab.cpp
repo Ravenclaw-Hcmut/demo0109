@@ -71,3 +71,7 @@ Có thể thấy chương trình sau khi chạy sẽ gọi đến phương thứ
 Vậy để chương trình gọi tới phương thức show() của lớp Child ta sử dụng hàm ảo virtual như sau:
 
 **/
+/**
+ * change
+ * 
+ * */
